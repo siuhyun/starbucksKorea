@@ -1,4 +1,5 @@
 # [starbucksKorea](https://siuhyun.github.io/starbucksKorea/)
+![Mac Studio_starbusksKorea](https://github.com/siuhyun/starbucksKorea/assets/149446617/ebb2aaca-7f75-4efa-8aa9-8b75380799db)
 
 ## 🖥️ Summary
 **StarbucksKorea를 클론 코딩한 웹사이트**입니다. 로그인 기능, 최상단 스크롤 버튼, 프로모션 영역 토글 기능, 자동 슬라이드 기능, 그리고 YouTube IFrame Player API를 생성하여 동영상 재생의 재생과 음소거 설정 후 재생되도록 하였습니다.
